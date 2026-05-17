@@ -43,5 +43,5 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 21. resolve captcha
 22. create accounts
 ### contact me
-## Contact Telegram [@dacent53] 
-https://t.me/dacent53
+## Contact Telegram [@dacent87] 
+https://t.me/dacent87
